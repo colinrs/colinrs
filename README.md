@@ -12,7 +12,8 @@
 ### 我的技能
 
 * Golang ❤️、Python
-* MySQL、Redis、Mongo
+* MySQL、Redis、MongoDB
+* Spark、Hive、
 * Linux
 
 

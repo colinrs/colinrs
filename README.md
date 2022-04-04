@@ -22,7 +22,7 @@
 * Started internship in 2017. The in-service company is iQIYI Technology Co., Ltd., position: operation and maintenance engineer, biased towards system operation and maintenance, CDN operation and maintenance
 * Converted to a development engineer in 2018, mainly using Python, and preferring data development.
 * Graduated in June 2018 and officially joined iQIYI Technology Co., Ltd. Position: Development engineer, mainly using Python and Go. Biased towards big data, infrastructure development.
-*Joined Shenzhen Shopee Technology Co., Ltd. in September 2020, position: Seller background development engineer, mainly using Python and Go. It is biased towards seller store management and marketing tool development.
+* Joined Shenzhen Shopee Technology Co., Ltd. in September 2020, position: Seller background development engineer, mainly using Python and Go. It is biased towards seller store management and marketing tool development.
 * In December 2021, he will be responsible for the development of the backend service of Shopee Shop Page.
 
 ---

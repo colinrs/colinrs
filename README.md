@@ -9,20 +9,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=colinrs&show_icons=true" alt="colinrs's GitHub Stats" />
 </a>
 
-### 我的技能
+### My skills
 
 * Golang ❤️、Python
 * MySQL、Redis、MongoDB
 * Spark、Hive、
 * Linux
 
-### 职业发展
+### Career Development
 
-* 2014～2018年就读河北农业大学、本科、网络工程。
-* 2017年开始实习，在职公司为爱奇艺科技有限公司，职位：运维工程师，偏向系统运维、CDN运维
-* 2018年转为开发工程师，主要使用Python，偏向数据开发。
-* 2018年6月毕业，正式入职爱奇艺科技有限公司。职位：开发工程师，主要使用Python、Go。偏向大数据，基础架构开发。
-* 2020年9月入职深圳市虾皮科技有限公司，职位：卖家后台开发工程师，主要使用Python、Go。偏向卖家店铺管理、营销工具开发。
+* From 2014 to 2018, he studied at Hebei Agricultural University, undergraduate, network engineering.
+* Started internship in 2017. The in-service company is iQIYI Technology Co., Ltd., position: operation and maintenance engineer, biased towards system operation and maintenance, CDN operation and maintenance
+* Converted to a development engineer in 2018, mainly using Python, and preferring data development.
+* Graduated in June 2018 and officially joined iQIYI Technology Co., Ltd. Position: Development engineer, mainly using Python and Go. Biased towards big data, infrastructure development.
+*Joined Shenzhen Shopee Technology Co., Ltd. in September 2020, position: Seller background development engineer, mainly using Python and Go. It is biased towards seller store management and marketing tool development.
+* In December 2021, he will be responsible for the development of the backend service of Shopee Shop Page.
 
 ---
 

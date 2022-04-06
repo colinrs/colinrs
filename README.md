@@ -5,11 +5,8 @@
 
 ### Hi, I'm colinrs! 👋
 
-<a href="https://github.com/colinrs">
-  <img src="https://github-readme-stats.vercel.app/api?username=colinrs&show_icons=true" alt="colinrs's GitHub Stats" />
-</a>
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=colinrs&show_icons=true" alt="colinrs's GitHub Stats" />
   <img align="right" src="https://github-profile-trophy.vercel.app/?username=colinrs&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
 </p>
 

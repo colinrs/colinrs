@@ -7,6 +7,8 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=colinrs&show_icons=true" alt="colinrs's GitHub Stats" />
+  <br><br>
+
 </p>
 
 ### My skills

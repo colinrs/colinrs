@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=colinrs&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
   <br><br>
 </p>
 
 ### Hi, I'm colinrs! 👋
 
-<p>
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=colinrs&show_icons=true" alt="colinrs's GitHub Stats" />
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=colinrs&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
 </p>
 
 ### My skills
